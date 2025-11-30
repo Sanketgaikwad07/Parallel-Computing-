@@ -1,0 +1,17 @@
+ OUTPUT 2 Processor
+x1 = 1.73333
+x2 = 3.13333
+x3 = -1.33333
+x4 = 1
+
+ OUTPUT for 3 Processors 
+x1 = 1.73333
+x2 = 3.13333
+x3 = -1.33333
+x4 = 1
+
+ OUTPUT for 4 Processors 
+x1 = 1.73333
+x2 = 3.13333
+x3 = -1.33333
+x4 = 1
